@@ -44,9 +44,19 @@ Hi, I’m **[Your Name]**, a passionate software developer from [Your Country]. 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindrakanapuram&show_icons=true&theme=default" alt="GitHub Stats" width="55%" />
-  <img src="https://streak-stats.demolab.com?user=ravindrakanapuram&theme=default" alt="GitHub Streak" width="55%" />
-</div>  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindrakanapuram&show_icons=true&theme=default" alt="GitHub Stats" width="45%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ravindrakanapuram&theme=default" alt="GitHub Streak" width="45%" />
+
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrakanapuram&theme=default" alt="GitHub Activity Graph" width="100%" />
+
+  <!-- Wakatime Stats for Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravindrakanapuram&theme=default" alt="Coding Activity" width="45%" />
+</div>
+
 
 ---
 
