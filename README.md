@@ -178,25 +178,42 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 A simple setup combining all these tools:
 
 ```text
-+---------------------+        +---------------------+         +-----------------+
-|      Client         |  --->  |  Ingress/Nginx      |  --->   |   Gunicorn App  |
-|   Browser or App    |        |  Traffic Mgmt       |         |  Python Backend |
-+---------------------+        +---------------------+         +-----------------+
-    |
-    |                            +---------------+         
-    +---------------------------> |    Redis      |
-                                  |   Caching     |
-                                  +---------------+
-                                  |    RabbitMQ   |
-                                  |    Queues     |
-                                  +---------------+
-                                  |    Kafka      |
-                                  |   Streaming   |
-                                  +---------------+
-  
-  - Domains Configured with SSL    - Traffic Managed via Ingress  
-  - Scalable Kubernetes Setup      - Auto-Scaling Enabled with HPA  
-  - Asynchronous Messaging and Streaming Enabled
+                                   +---------------------+
+                                   |      Client         |
+                                   | Browser/Mobile App  |
+                                   +---------------------+
+                                             |
+                                             |
+                                  +-----------------------+
+                                  |      API Gateway      |
+                                  |   Nginx/Ingress       |
+                                  +-----------------------+
+                                             |
+          ------------------------------------------------------------------
+          |                |                    |                  |       |
++-----------------+ +---------------+ +------------------+ +---------------+ +--------------------+
+| Authentication  | |    Backend    | | Message Queuing  | | Caching Layer | | Streaming Data     |
+| Service (FastAPI| | Services (Django,| | Layer (RabbitMQ) | | (Redis)       | | Layer (Kafka)      |
+| JWT/OAuth2)     | | Flask, Express) | +------------------+ +---------------+ +--------------------+
++-----------------+ +---------------+                                |
+                                                                     |
+                                   +---------------------------------+
+                                   |      Database Services          |
+                                   |      (Postgres, MongoDB)        |
+                                   +---------------------------------+
+
+                         +---------------------+           +-------------------------+
+                         | Monitoring & Logging|           | CI/CD Pipeline          |
+                         | (Prometheus, Grafana|           | (Jenkins, GitHub Actions|
+                         +---------------------+           +-------------------------+
+                                             |
+                ----------------------------------------------------------------------
+                |                          |                          |               |
+     +---------------------+    +---------------------+  +---------------------+ +-------------------+
+     | Container Orchestration|  | Deployment Automation|  | Infrastructure as Code| | Domain Management|
+     | (Kubernetes)          |  | (Ansible, Terraform) |  | (Terraform)          | | Cloudflare, AWS R53|
+     +---------------------+    +---------------------+  +---------------------+ +-------------------+
+
 ```
 
 ### ✨ Projects  
