@@ -222,7 +222,7 @@ A simple setup combining all these tools:
 [***Dream Demand Planner***](https://www.dreamdemandplanner.com/)
 - We have build this project to monitor the stock and warehouse management to reduce the cost cuttings across the 7 regions.
 - I have collaborated with some external team to setup the forecast the sales and stock for 6 months with forecasting ML model
-- my collaboration in to this project setting up RESTAPIS for different level users admin and vendor side
+- my collaboration in to this project setting up RESTAPIS for different level users admin and vendor side, creating models for the db level setup many more functionalities and integrations.
 
 ### [**Project 2**](https://github.com/project-link)  
 - Description: Focus on what makes this project unique or impactful.  
