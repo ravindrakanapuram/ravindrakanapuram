@@ -90,6 +90,35 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
   <img src="https://img.shields.io/badge/HuggingFace-F46F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
 </p>
 
+## 🛡️ Other Skills  
+
+### **Version Control**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+</p>
+
+---
+
+### **Testing Frameworks**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### **Message Queues**  
+<p align="left">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+</p>
+
+
 
 ## 🌟 Projects  
 
