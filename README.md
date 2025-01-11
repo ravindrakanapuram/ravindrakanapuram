@@ -111,12 +111,93 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 </p>
 
 ---
+## 🛠️ Deployment & Hosting  
 
-### **Message Queues**  
+### **Web Servers**  
 <p align="left">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/Ingress%20Controller-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Ingress Controller" />
 </p>
+
+- Configured **Nginx** as a reverse proxy for load balancing, handling static files, and optimizing traffic.
+- Deployed **Gunicorn** to serve Python applications efficiently as a WSGI server.
+- Utilized **Kubernetes Ingress Controller** for managing external access and HTTPS termination for services.
+
+---
+
+### **DNS & Domains**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Domain-Setup-0078D4?style=for-the-badge" alt="Domain Setup" />
+  <img src="https://img.shields.io/badge/SSL-Let's%20Encrypt-003A70?style=for-the-badge" alt="SSL Configuration" />
+</p>
+
+- Configured custom domains using **AWS Route 53**, **Google Domains**, and **Cloudflare**.
+- Secured domains with **Let's Encrypt** SSL certificates for HTTPS support and safe communication.
+
+---
+
+### **Containerization & Orchestration**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+- Built and deployed containerized applications using **Docker** and **Docker Compose**.
+- Orchestrated multi-container environments with **Kubernetes** for scaling and reliability.
+- Automated deployment pipelines integrating with **CI/CD tools** like Jenkins and GitHub Actions.
+
+---
+
+### **Deployment Automation**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+- Automated server provisioning and deployments using **Ansible** playbooks.
+- Managed infrastructure as code (IaC) with **Terraform**, supporting AWS, GCP, and Azure.
+
+---
+
+### **Message Queues & Caching**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
+
+- Utilized **Redis** for caching and session management to enhance application performance.
+- Integrated **RabbitMQ** for message queuing, enabling distributed systems to communicate asynchronously.
+- Deployed and managed **Kafka** for stream processing, handling large-scale real-time data across microservices.
+
+---
+
+### **Example Architecture**  
+A simple setup combining all these tools:
+
+```text
++---------------------+        +---------------------+         +-----------------+
+|      Client         |  --->  |  Ingress/Nginx      |  --->   |   Gunicorn App  |
+|   Browser or App    |        |  Traffic Mgmt       |         |  Python Backend |
++---------------------+        +---------------------+         +-----------------+
+    |
+    |                            +---------------+         
+    +---------------------------> |    Redis      |
+                                  |   Caching     |
+                                  +---------------+
+                                  |    RabbitMQ   |
+                                  |    Queues     |
+                                  +---------------+
+                                  |    Kafka      |
+                                  |   Streaming   |
+                                  +---------------+
+  
+  - Domains Configured with SSL    - Traffic Managed via Ingress  
+  - Scalable Kubernetes Setup      - Auto-Scaling Enabled with HPA  
+  - Asynchronous Messaging and Streaming Enabled  
+
 
 
 
