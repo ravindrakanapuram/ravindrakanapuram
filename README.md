@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Profile  
 
-Hi, I’m **[Ravindra reddy kanapuram]**, a passionate software developer from India. My focus is on building scalable, user-friendly applications while exploring innovative technologies.
+Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from India. My focus is on building scalable, user-friendly applications while exploring innovative technologies.
 
 ---
 
