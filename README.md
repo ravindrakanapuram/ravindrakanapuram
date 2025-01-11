@@ -53,8 +53,6 @@ Hi, I’m **[Your Name]**, a passionate software developer from [Your Country]. 
   <!-- Contributions Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrakanapuram&theme=default" alt="GitHub Activity Graph" width="100%" />
 
-  <!-- Wakatime Stats for Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravindrakanapuram&theme=default" alt="Coding Activity" width="45%" />
 </div>
 
 
