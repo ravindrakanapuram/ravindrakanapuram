@@ -44,8 +44,8 @@ Hi, I’m **[Your Name]**, a passionate software developer from [Your Country]. 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=default" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindrakanapuram&show_icons=true&theme=default" alt="GitHub Stats" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=ravindralanapuram&theme=default" alt="GitHub Streak" width="45%" />
 </div>  
 
 ---
