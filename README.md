@@ -74,7 +74,7 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 
 ---
 
-### 📈 Monitoring & Logging  
+### 📊 Monitoring & Logging  
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
@@ -196,12 +196,10 @@ A simple setup combining all these tools:
   
   - Domains Configured with SSL    - Traffic Managed via Ingress  
   - Scalable Kubernetes Setup      - Auto-Scaling Enabled with HPA  
-  - Asynchronous Messaging and Streaming Enabled  
+  - Asynchronous Messaging and Streaming Enabled
+```
 
-
-
-
-## 🌟 Projects  
+### ✨ Projects  
 
 ### [**Project 1**](https://github.com/project-link)  
 - Description: Briefly explain what the project does and its key features.  
@@ -225,10 +223,9 @@ A simple setup combining all these tools:
 
 </div>
 
-
 ---
 
-## 📫 Let’s Connect  
+## 📣 Let’s Connect  
 
 - **Portfolio:** [codenode.tech](https://codenode.tech)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
