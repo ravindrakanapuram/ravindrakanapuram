@@ -9,7 +9,7 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 ## 📌 About Me  
 
 - 🌱 **Learning:** Constantly upskilling with the latest frameworks and tools.  
-- 💼 **Working as:** [Your Role/Job Title] at [Your Organization].  
+- 💼 **Working as:** Python Fullstack Developer at Bloom&Grow group based on Hongkong , company url 👉 [Bloom&Grow](https://bloomandgrowgroup.com/).  
 - 🎯 **2025 Goals:** [Briefly list 1-3 professional goals].  
 
 ---
@@ -60,7 +60,7 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 
 ## 📫 Let’s Connect  
 
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+- **Portfolio:** [codenode.tech](https://codenode.tech)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
 - **Email:** [youremail@example.com](mailto:youremail@example.com)  
 
