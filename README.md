@@ -218,15 +218,23 @@ A simple setup combining all these tools:
 
 ### ✨ Projects  
 
-### [**Project 1**](https://github.com/ncyhere/demand-forecast-backend.git)  
-[***Dream Demand Planner***](https://www.dreamdemandplanner.com/)
+### [**Project 1**]
+[***Backend repo link***](https://github.com/ncyhere/demand-forecast-backend.git)  
+[***Frontend repo Link***](https://github.com/ncyhere/demand-forecast-frontend)
+[***Dream Demand Planner website***](https://www.dreamdemandplanner.com/)
 - We have build this project to monitor the stock and warehouse management to reduce the cost cuttings across the 7 regions.
 - I have collaborated with some external team to setup the forecast the sales and stock for 6 months with forecasting ML model
-- my collaboration in to this project setting up RESTAPIS for different level users admin and vendor side, creating models for the db level setup many more functionalities and integrations.
+- my collaboration into this project setting up RESTAPIS in Django for different level users admin and vendor side, creating models for the db level setup many more functionalities and integrations.
+- setting up the RDBMS for mysql setup and s3 bucket.
 
-### [**Project 2**](https://github.com/project-link)  
-- Description: Focus on what makes this project unique or impactful.  
-
+### [**Project 2**]
+[***Frontend repo Link***](https://github.com/ncyhere/vendor_app_test.git)
+[***BloomConnect unde development***](dev.bloomconnect.com)
+[***BloomConnect Deployed version***](bloomconnect.com)
+- We have build this project to manage the different level vendors across the globe to manage sell and buy the products 
+- We have used the php laravel for the backend system it was collaborated by the Teddy one of my collegue 
+- My collaboration into this project setting up nextjs app and creating the UI dashbaord and functoinalities , it is almost clone to the shopify to manage the vendors and retailer , created lots of components for each sections
+- testing using the playwrite , deployed to the AWS EC2 instance using the DOCKER and jenkins 
 ---
 
 ## 📊 GitHub Stats  
