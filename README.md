@@ -83,6 +83,13 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
   <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" />
 </p>
 
+### 🤖 Generative AI & Prompt Engineering  
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/HuggingFace-F46F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+</p>
+
 
 ## 🌟 Projects  
 
