@@ -229,8 +229,8 @@ A simple setup combining all these tools:
 
 ### [**Project 2**]
 [***Frontend repo Link***](https://github.com/ncyhere/vendor_app_test.git) ---
-[***BloomConnect unde development***](dev.bloomconnect.com) ---
-[***BloomConnect Deployed version***](bloomconnect.com) ---
+[***BloomConnect under development***](https://dev.bloomconnect.com/) ---
+[***BloomConnect Deployed version***](https://bloomconnect.com/) ---
 - We have build this project to manage the different level vendors across the globe to manage sell and buy the products 
 - We have used the php laravel for the backend system it was collaborated by the Teddy one of my collegue 
 - My collaboration into this project setting up nextjs app and creating the UI dashbaord and functoinalities , it is almost clone to the shopify to manage the vendors and retailer , created lots of components for each sections
