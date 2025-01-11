@@ -218,8 +218,11 @@ A simple setup combining all these tools:
 
 ### ✨ Projects  
 
-### [**Project 1**](https://github.com/project-link)  
-- Description: Briefly explain what the project does and its key features.  
+### [**Project 1**](https://github.com/ncyhere/demand-forecast-backend.git)  
+[***Dream Demand Planner***](https://www.dreamdemandplanner.com/)
+- We have build this project to monitor the stock and warehouse management to reduce the cost cuttings across the 7 regions.
+- I have collaborated with some external team to setup the forecast the sales and stock for 6 months with forecasting ML model
+- my collaboration in to this project setting up RESTAPIS for different level users admin and vendor side
 
 ### [**Project 2**](https://github.com/project-link)  
 - Description: Focus on what makes this project unique or impactful.  
