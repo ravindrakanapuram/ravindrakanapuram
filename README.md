@@ -235,7 +235,7 @@ A simple setup combining all these tools:
 - We have used the php laravel for the backend system it was collaborated by the Teddy one of my collegue 
 - My collaboration into this project setting up nextjs app and creating the UI dashbaord and functoinalities , it is almost clone to the shopify to manage the vendors and retailer , created lots of components for each sections using SHADCNUI
 - testing using the playwrite , deployed to the AWS EC2 instance using the DOCKER and jenkins 
----
+
 
 ### [**Project 3**]
 [***Frontend repo Link***](https://github.com/ncyhere/vendor_app_test.git) ---
