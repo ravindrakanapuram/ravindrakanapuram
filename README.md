@@ -8,9 +8,12 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 
 ## 📌 About Me  
 
-- 🌱 **Learning:** Constantly upskilling with the latest frameworks and tools.  
-- 💼 **Working as:** Python Fullstack Developer at [Bloom&Grow](https://bloomandgrowgroup.com/) Group based on Hongkong . 
-- 🎯 **2025 Goals:** [Briefly list 1-3 professional goals].  
+- 🌱 **Learning:** Constantly exploring the latest frameworks, tools, and technologies to expand my expertise.  
+- 💼 **Current Role:** Python Fullstack Developer at [Bloom & Grow](https://bloomandgrowgroup.com/) Group (Hong Kong).  
+- 🎯 **2025 Goals:**  
+  1. Master system administration and delve into operating system functionalities.  
+  2. Deepen knowledge in machine learning and artificial intelligence.  
+  3. Gain proficiency in advanced techniques for data structures and algorithms. 
 
 ---
 
