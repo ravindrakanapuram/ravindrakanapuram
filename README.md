@@ -265,7 +265,7 @@ A simple setup combining all these tools:
 
 ## 📣 Let’s Connect  
 
-- **Portfolio:** [codenode.tech](https://codenode.tech)  
+- **Portfolio:** [codenode.tech](https://blog.codenode.tech/)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
 - **Email:** [youremail@example.com](mailto:youremail@example.com)  
 
