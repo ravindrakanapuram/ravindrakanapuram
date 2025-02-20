@@ -260,9 +260,7 @@ A simple setup combining all these tools:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrakanapuram&theme=default" alt="GitHub Activity Graph" width="100%" />
 
   ### 🐍 GitHub Contribution Snake
-![GitHub Snake]
- <img src="https://raw.githubusercontent.com/ravindrakanapuram/ravindrakanapuram/refs/heads/output/github-snake-dark.svg" alt="github snake" width="100%" />
-
+![GitHub Snake](https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg)
 
 </div>
 
