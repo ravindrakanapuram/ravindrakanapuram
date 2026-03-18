@@ -55,9 +55,9 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /> -->
 </p>
 
 ---
@@ -67,9 +67,9 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+  <!-- <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" alt="TravisCI" />
-  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" />
+  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /> -->
 </p>
 
 ---
@@ -84,11 +84,11 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 </p>
 
 ### 🤖 Generative AI & Prompt Engineering  
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/HuggingFace-F46F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
-</p>
+</p> -->
 
 ## 🛡️ Other Skills  
 
@@ -141,7 +141,7 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> -->
 </p>
 
 - Built and deployed containerized applications using **Docker** and **Docker Compose**.
@@ -151,10 +151,10 @@ Hi, I’m **Ravindrareddy Kanapuram**, a passionate software developer from Indi
 ---
 
 ### **Deployment Automation**  
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-</p>
+</p> -->
 
 - Automated server provisioning and deployments using **Ansible** playbooks.
 - Managed infrastructure as code (IaC) with **Terraform**, supporting AWS, GCP, and Azure.
